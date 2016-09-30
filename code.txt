@@ -1,5 +1,10 @@
 
-#puts("Hello World")
-#puts("Hello is the name of the Alexandra girl's friend")
-my_wife_name = amaka
-puts('My wife\'s name is Jane')
+
+print("What is the virgin mobile?")
+
+virgin_mobile = gets().chomp().to_s
+
+
+puts virgin_moble
+
+my_virgin_mobile_is_not_working_well
