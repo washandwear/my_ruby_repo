@@ -1,0 +1,5 @@
+
+#puts("Hello World")
+#puts("Hello is the name of the Alexandra girl's friend")
+my_wife_name = amaka
+puts('My wife\'s name is Jane')
